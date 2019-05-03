@@ -1,2 +1,19 @@
-# canvas-playground
-Experiments with HTML canvas.
+# Canvas playground
+
+## 1. Pythagoras Tree 
+
+Controls:
+
+- **&uparrow;** or **&rightarrow;** to increase amount of leafs
+- **&downarrow;** or **&leftarrow;** to decrease amount of leafs
+- **mouse move** or **touch** to increase or decrease angle
+
+<p align="center">
+    <img alt="Pythagoras Tree" src="https://raw.githubusercontent.com/0x8b/canvas-playground/master/playground/pythagoras_tree/preview.png">
+</p>
+
+## 2. Ring animation
+
+<p align="center">
+    <img alt="Ring" src="https://raw.githubusercontent.com/0x8b/canvas-playground/master/playground/ring/preview.png">
+</p>
