@@ -17,3 +17,9 @@ Controls:
 <p align="center">
     <img alt="Ring" src="https://raw.githubusercontent.com/0x8b/canvas-playground/master/playground/ring/preview.png">
 </p>
+
+## 3. Stretch in one direction [(live)](https://0x8b.github.io/canvas-playground/playground/stretch/index.html)
+
+<p align="center">
+    <img alt="Stretch" src="https://raw.githubusercontent.com/0x8b/canvas-playground/master/playground/stretch/preview.png">
+</p>
